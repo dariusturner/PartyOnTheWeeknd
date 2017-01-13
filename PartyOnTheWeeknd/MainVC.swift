@@ -20,7 +20,7 @@ class MainVC: UIViewController, UITableViewDelegate, UITableViewDataSource {
         
         let p1 = Weeknd1(imageUrl: "https://284fc2d5f6f33a52cd9f-ce476c3c56a27f320262daffab84f1af.ssl.cf3.rackcdn.com/artwork_57e357af9ef7c_400x400bb.jpg", videoUrl: "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/34Na4j8AVgA\" frameborder=\"0\" allowfullscreen></iframe>", videoTitle: "Starboy")
         
-        let p2 = Weeknd1(imageUrl: "https://upload.wikimedia.org/wikipedia/en/1/15/The-Weeknd-In-the-Night-2015.png", videoUrl: "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2iFa5We6zqw\" frameborder=\"0\" allowfullscreen></iframe>", videoTitle: "In The Night (Audio)")
+        let p2 = Weeknd1(imageUrl: "https://upload.wikimedia.org/wikipedia/en/1/1a/The_Hills_single_cover.jpg", videoUrl: "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/yzTuBuRdAyA\" frameborder=\"0\" allowfullscreen></iframe>", videoTitle: "The Hills")
         
         let p3 = Weeknd1(imageUrl: "http://www.wepluggoodmusic.com/wp-content/uploads/2012/12/the-weeknd-trilogy-album-cover.jpg", videoUrl: "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/O1OTWCd40bc?list=PLiscJKD_ybuLM54NHxBbHvXfQrJERtY6u\" frameborder=\"0\" allowfullscreen></iframe>", videoTitle: "Wicked Games")
         
